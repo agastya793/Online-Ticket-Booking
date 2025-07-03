@@ -12,7 +12,4 @@ Dhaka Metro Rail is an approved rapid transit system under construction in Dhaka
       <li>Firebase Login</li>
 </ul>
 
-# Live Website Link
-https://dhakametrorail.netlify.app/
-<br>
-https://dhakametrorail.web.app/ 
+
